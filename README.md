@@ -8,3 +8,7 @@
 > 官网
 > 
 > http://nginx.org/
+
+Nginx中文文档 https://www.nginx.cn/doc/
+
+
